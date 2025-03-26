@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceGameApplication</string>
+    <string name="title_activity_about_page">AboutPage</string>
+    <string name="title_activity_new_game">NewGame</string>
+    <string name="title_activity_super_roll">SuperRoll</string>
+    <string name="title_activity_super_scroll">SuperScroll</string>
+</resources>
